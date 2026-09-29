@@ -1,0 +1,15 @@
+{
+  "name": "luma-atelier",
+  "version": "1.0.0",
+  "description": "A minimal interactive lighting playground with a little physics and a little wonder.",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "bun@1.3.14",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "devDependencies": { "vite": "^7.1.0" }
+}
